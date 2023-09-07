@@ -1,0 +1,50 @@
+Slide deck Link - https://docs.google.com/presentation/d/1i2Z7yIOtKXcaDESqMcLZvCDdjwIPAEIBA5Ui__YjzGE/edit#slide=id.g1d14a72f0f4_2_0
+
+Goals for Session 1
+    Users should be able to understand what are the different components in Module 3 of QtripStatic.
+
+Agenda
+    QTripstatic Module 3 Intro
+    JS Recap Problems
+    Optional JS Exercises
+
+Module 3 - Adventure Grid
+    Grid with images
+    Grid should be responsive
+    Dimming image on hover
+    Link - https://www.crio.do/learn/home/me/ME_QTRIPSTATIC/ME_QTRIPSTATIC_MODULE_ADVENTURES_GRID
+
+JS Activity #1
+    Operations on Arrays
+    Link - https://www.crio.do/learn/PSDS/ME_FE2_ES6_PRACTICE/ME_FE2_ES6_PRACTICE_MODULE_ARRAYSIMPLEES6/
+
+JS Activity #2
+    Objects
+    Link - https://www.crio.do/learn/PSDS/ME_FE2_ES6_PRACTICE/ME_FE2_ES6_PRACTICE_MODULE_OBJECTES6/
+
+JS Activity #3
+    Date
+    Link - https://www.crio.do/learn/PSDS/ME_FE2_ES6_PRACTICE/ME_FE2_ES6_PRACTICE_MODULE_DATEES6/
+
+JS Activity #4
+    Arrays and Arrow Functions
+    Link - https://www.crio.do/learn/PSDS/ME_FE2_ES6_PRACTICE/ME_FE2_ES6_PRACTICE_MODULE_ARROWES6/
+
+Optional JS Exercises
+    For people who have completed QTrip Static:  
+    Click Here, link - https://docs.google.com/document/d/1E8P3I2_OY1sccbzZxmNBs8AKkvo8YrfUfh2iWW8nKpY/edit?usp=sharing
+
+Must read JS topics
+    Important JavaScript topics required for this sprint:
+    Link - https://help.crio.do/support/solutions/articles/82000900183-javascript-recap-for-fe-2
+
+Summary
+    We understood what needs to be done in QtripStatic Module 3.
+
+End of session quiz
+    Share the below link with the learners
+    Link - https://www.crio.do/magic/qtripstatic-module3-intro-quiz
+
+    Learners will have 5 mins to attempt and submit the quiz  
+    Discussions can be taken up in the QnA session
+
