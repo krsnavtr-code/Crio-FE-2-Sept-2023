@@ -1,0 +1,48 @@
+Slide deck Link - https://docs.google.com/presentation/d/1rBKzx3TJjoq9SiB-mc_C-UIRDWI3dV4cdkozKSJdYkU/edit#slide=id.gee6882eb95_1_4
+
+Goals for Session 2
+    Users should be able to understand what are the different components in Module 4 of QtripStatic.
+
+Agenda
+    QTripstatic Module 4 Intro
+    JS Recap Problems
+
+Module 4 -  Adventure details page
+    link - https://www.crio.do/learn/me/ME_QTRIPSTATIC/ME_QTRIPSTATIC_MODULE_ADVENTURE_DETAILS/
+    Image Grid
+    Reservation Side Card
+    Text and Content
+
+Module 4 - Adventure details page
+    Image Grid
+    Reservation Side Card
+    Text and Content
+
+JS Activity #1
+    Try Catch
+    link - https://www.crio.do/learn/PSDS/ME_FE2_ES6_PRACTICE/ME_FE2_ES6_PRACTICE_MODULE_TRYCATCHES6/   
+
+JS Activity #2
+    Throw
+    link - https://www.crio.do/learn/PSDS/ME_FE2_ES6_PRACTICE/ME_FE2_ES6_PRACTICE_MODULE_THROWES6/
+
+JS Activity #3
+    ForEach
+    link - https://www.crio.do/learn/PSDS/ME_FE2_ES6_PRACTICE/ME_FE2_ES6_PRACTICE_MODULE_FOREACHES6/
+
+JS Activity #4
+    Map
+    link - https://www.crio.do/learn/PSDS/ME_FE2_ES6_PRACTICE/ME_FE2_ES6_PRACTICE_MODULE_MAPES6/
+
+JS Activity #5
+    Filter
+    link - https://www.crio.do/learn/PSDS/ME_FE2_ES6_PRACTICE/ME_FE2_ES6_PRACTICE_MODULE_FILTERES6/
+
+Summary
+    We understood what needs to be done in QtripStatic Module 4.
+
+End of session quiz
+    Share the below link with the learners
+    link - https://www.crio.do/magic/qtripstatic-module4-intro-quiz
+    Learners will have 5 mins to attempt and submit the quiz  
+    Discussions can be taken up in the QnA session
